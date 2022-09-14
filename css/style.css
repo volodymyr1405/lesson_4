@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"); 
+
+@font-face {
+   font-family: "CircularStd";
+   src: url("../fonts/CircularStd-Book.woff2") format("woff2"), url("../fonts/CircularStd-Book.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "CircularStd";
+   src: url("../fonts/CircularStd-Medium.woff2") format("woff2"), url("../fonts/CircularStd-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: "CircularStd";
+   src: url("../fonts/CircularStd-Bold.woff2") format("woff2"), url("../fonts/CircularStd-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/latoregular.woff2") format("woff2"), url("../fonts/latoregular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "lato";
+   src: url("../fonts/latobold.woff2") format("woff2"), url("../fonts/latobold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "lato";
+   src: url("../fonts/latoBlack.woff2") format("woff2"), url("../fonts/latoblack.woff") format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fontsLarsseit.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-family: "Roboto";
+   font-weight: 400;
+   color: brown;
+}
+.list {
+   font-family: "Larsseit";
+   font-weight: 500;
+   color: red;
+}
+.note-hall{
+   font-family: "Larsseit";
+   color: blueviolet;
+}
+span {
+   font-family: "Lato";
+   font-weight: 700;
+   color: rgb(0, 255, 132);
+}
+.note-story{
+   color: chocolate;
+}
+div {
+   font-family: "CircularStd";
+   font-weight: 700;
+}
+.note-article {
+   color: darkgreen;
+}
+p {
+   font-weight: 800;
+   color: darkcyan;
+}
+a {
+   color: blue;
+}
+span.vin{
+   color: chartreuse;
+}
+p.text-story{
+   color: gold;
+}
